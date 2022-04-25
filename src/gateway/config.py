@@ -1,3 +1,4 @@
 paths = {
-    '/products': 'http://catalogue:5000/products',
+    'products': 'http://products:80',
+    'auth': 'http://authentication:80',
 }
